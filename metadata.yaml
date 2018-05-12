@@ -1,0 +1,46 @@
+_repo: Chateaubriand-et-Madame-de-CustineEpisodes-et-correspondance-in-dite_22384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Chateaubriand, François-René, vicomte de
+    aliases:
+    - Chateaubriand, François Auguste René, vicomte de
+    - Chateaubriand, F.-A. de (François-Auguste)
+    - Chateaubriand, Francois-Rene, vicomte de
+    - De Chateaubriand, François-René
+    birthdate: 1768
+    deathdate: 1848
+    gutenberg_agent_id: '7255'
+    url: http://www.gutenberg.org/2009/agents/7255
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+    - http://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+  - agent_name: Chédieu de Robethon, Émile
+    alias: Chedieu de Robethon, Emile
+    birthdate: 1814
+    gutenberg_agent_id: '25303'
+    url: http://www.gutenberg.org/2009/agents/25303
+  - agent_name: Custine, Delphine de Sabran, marquise de
+    birthdate: 1770
+    deathdate: 1826
+    gutenberg_agent_id: '25304'
+    url: http://www.gutenberg.org/2009/agents/25304
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22384'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chateaubriand, François-René, vicomte de, 1768-1848'
+- !lcc 'PQ'
+- !lcsh 'Custine, Delphine de Sabran, marquise de, 1770-1826'
+title: 'Chateaubriand et Madame de Custine: Episodes et correspondance inédite'
+url: http://www.gutenberg.org/ebooks/22384
